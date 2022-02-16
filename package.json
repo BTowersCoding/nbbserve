@@ -1,0 +1,11 @@
+{
+    "name": "nbbserve",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.2",
+        "nbb": "0.1.6"
+    },
+    "bin": {
+        "nbbserve": "index.mjs"
+    }
+}
